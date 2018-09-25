@@ -4,3 +4,4 @@ var div = function(numa, numb) {
 }
 
 console.log(div(10, 20));
+console.log(div(10, 20));
